@@ -1,7 +1,7 @@
 {
   "name": "vigenere-encrypt",
   "version": "1.0.0",
-  "description": "Vigenere Chiper - Remake Use NodeJs - 28/09/2023 - 17:30",
+  "description": "Vigenere Chiper - Clean Code - 1/10/2023 - 08:04",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,5 @@
     "Chiper"
   ],
   "author": "Haydar Hilmy",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^4.1.0"
-  }
+  "license": "ISC"
 }

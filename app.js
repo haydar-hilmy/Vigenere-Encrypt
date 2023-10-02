@@ -1,13 +1,11 @@
 const readline = require('readline');
 const Vigenere = require('./vigenere-algorithm');
-const chalk = require('chalk');
 const { exit, config } = require('process');
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-// interface will be show
 console.log(chalk.yellowBright("=-=-= VIGENERE =-=-="));
 console.log("[1] Encrypt");
 console.log("[2] Decrypt");
